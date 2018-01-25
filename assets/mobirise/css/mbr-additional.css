@@ -1757,7 +1757,7 @@ body {
 }
 .cid-qHGvTJGFMe {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 90px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
@@ -1824,8 +1824,8 @@ body {
 }
 .cid-qHGwEBJ7o0 {
   padding-top: 60px;
-  padding-bottom: 45px;
-  background-color: #f9f9f9;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
 .cid-qHGwEBJ7o0 .nav-tabs {
   -webkit-justify-content: center;
@@ -1884,4 +1884,7 @@ body {
     padding-left: 0;
     padding-bottom: 2rem;
   }
+}
+.cid-qHGwEBJ7o0 P {
+  text-align: left;
 }
